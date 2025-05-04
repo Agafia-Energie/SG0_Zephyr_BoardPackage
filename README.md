@@ -2,6 +2,8 @@
 
 Welcome to the Agafia-SG0+ board setup guide for the Zephyr framework. Using Zephyr, you can follow these steps to get started with embedded development on Agafia-SG0+.
 
+> **Disclaimer:** The setup files and instructions provided here may not be fully accurate and are subject to updates. Please ensure you check for the latest configurations and updates in official documentation or community sources.
+
 ## Installation Steps
 
 1. **Install CMake**  
